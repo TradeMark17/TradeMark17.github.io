@@ -12,9 +12,12 @@ Welcome to my personal site! Here you can find my [CV](https://trademark17.githu
 
 ------
 
-Art and science should be free and accessible to all.
-1. My publication is open access, and its code and data are freely available on my [GitHub](https://github.com/TradeMark17/).
-1. The [movies](https://trademark17.github.io/movies) tab of this site has links to Google Drives containing movies I enjoy.
-1. The [music](https://trademark17.github.io/music) tab of this site has a link to a Google Drive containing _drafts_ of songs I've made and a list of their samples.
+### Art and science should be [free](https://fmhy.net/beginners-guide) and accessible to all.
 
-If any of my own work interests you, feel free to use it for your own projects. I'd be happy to provide additional resources; just reach out to me via email.
+My [publication](https://trademark17.github.io/publications) is open access, and its code and data are freely available on my [GitHub profile](https://github.com/TradeMark17/).
+
+To spite the predatorial film industry and the authoritarian inundation of subscription services in our daily lives, it is a hobby of mine to download movies I enjoy. You can access my small but growing collection in the [movies](https://trademark17.github.io/movies) tab.
+
+The [music](https://trademark17.github.io/music) tab contains _drafts_ of songs I've made and a list of their samples.
+
+If any of my work interests you, feel free to use it for your own projects. I'd be happy to provide additional resources; just reach out to me via email.
