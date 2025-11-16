@@ -12,8 +12,7 @@ Welcome to my personal site! Here you can find my [CV](https://trademark17.githu
 
 ------
 
-### Art and science should be [free](https://fmhy.net/beginners-guide/) and accessible to all.
-
+**Art and science should be [free](https://fmhy.net/beginners-guide/) and accessible to all.**
 
 My [publication](https://trademark17.github.io/publications/) is open access, and its code and data are freely available on my [GitHub profile](https://github.com/TradeMark17/).
 
