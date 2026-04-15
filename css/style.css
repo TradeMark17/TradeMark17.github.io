@@ -1,26 +1,42 @@
 /* General page style */
 body {
   font-family: monospace, monospace;
-  max-width: 900px;
-  width: 95%;
-  margin: 40px auto;
-  line-height: 1.6;
+
+  margin: 0;
+
+  /* Background image */
+  background: url("../files/tile.png");
+  background-position: center center;
+  background-repeat: repeat;
+  background-size: 8em;
+  /* Blend image's opacity */
+  background-color: rgba(255, 255, 255, 0.4);
+  background-blend-mode: lighten;
 }
 
 /* Underline titles */
 h1 {
+  margin: 0;
+  padding: 20px 0;
   border-bottom: 2px solid #444;
-  padding-bottom: 6px;
-  margin-bottom: 25px;
 }
 
-.updated {
+/* Body container */
+.container {
+  max-width: 800px;
+  width: 95%;
+  margin: 40px auto;
+  background: white;
+  padding: 40px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.last-updated {
   margin-top: 300px;
   text-align: center;
   font-size: 0.8em;
 }
 
-/* Links */
 a {
   color: blue;
 }
@@ -32,7 +48,7 @@ a {
   text-align: center;
 }
 
-/* Home link style */
+/* Home link text */
 .home-link a {
   font-size: 1.2em;
   text-decoration: none;
