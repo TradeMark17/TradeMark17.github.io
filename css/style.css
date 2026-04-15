@@ -1,0 +1,39 @@
+/* General page style */
+body {
+  font-family: monospace, monospace;
+  max-width: 900px;
+  width: 95%;
+  margin: 40px auto;
+  line-height: 1.6;
+}
+
+/* Underline titles */
+h1 {
+  border-bottom: 2px solid #444;
+  padding-bottom: 6px;
+  margin-bottom: 25px;
+}
+
+.updated {
+  margin-top: 300px;
+  text-align: center;
+  font-size: 0.8em;
+}
+
+/* Links */
+a {
+  color: blue;
+}
+
+/* Home link container */
+.home-link {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Home link style */
+.home-link a {
+  font-size: 1.2em;
+  text-decoration: none;
+}
