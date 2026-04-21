@@ -1,19 +1,24 @@
-/* General page style */
-body {
-  font-family: monospace, monospace;
 
-  margin: 0;
+html {
+  height: 100%;
 
-  /* Background image */
-  background: url("../files/tile.png");
-  background-position: center center;
+  background-image: url("../files/tile.png");
+  background-position: center center; 
   background-repeat: repeat;
   background-size: 8em;
-  /* Blend image's opacity */
-  background-color: rgba(255, 255, 255, 0.4);
-  background-blend-mode: lighten;
-  /* Fixes background position but stops infinite tiling */
-  /* background-attachment: fixed; */
+
+  background-attachment: fixed;
+  
+  /* background-color: rgba(255, 255, 255, 0.4); */
+  background-color: white;
+  /* background-blend-mode: lighten; */
+}
+
+body {
+  font-family: monospace, monospace;
+  margin: 0;
+
+  background: transparent;
 }
 
 h2 {
