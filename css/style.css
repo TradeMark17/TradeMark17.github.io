@@ -61,9 +61,29 @@ a {
   margin-bottom: 20px;
   text-align: center;
 }
-
+.home-link-2 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
 /* Home link text */
 .home-link a {
+  font-size: 1.2em;
+  text-decoration: none;
+}
+.home-link-2 a {
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+/* Back link container */
+.back-link {
+  margin-top: 90px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+/* Back link text */
+.back-link a {
   font-size: 1.2em;
   text-decoration: none;
 }
