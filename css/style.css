@@ -2,10 +2,10 @@
 html {
   height: 100%;
 
-  background-image: url("../files/tile.png");
+  background-image: url("../files/mandalas1234.jpg");
   background-position: center center; 
   background-repeat: repeat;
-  background-size: 8em;
+  background-size: 64em;
 
   background-attachment: fixed;
   
@@ -37,7 +37,7 @@ h1 {
   max-width: 800px;
   width: 95%;
   margin: 40px auto;
-  background: white;
+  background: rgb(241, 233, 215);
   padding: 40px;
   box-shadow: 0 0 5px 0 rgba(0,0,0,0.4);
   box-sizing: border-box;
